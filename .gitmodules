@@ -1,3 +1,6 @@
 [submodule "puppet/modules/apt"]
 	path = puppet/modules/apt
 	url = git@github.com:NoStressCommerceCZ/virtualdev-module-puppet-apt.git
+[submodule "puppet/modules/php5-fpm"]
+	path = puppet/modules/php5-fpm
+	url = git@github.com:NoStressCommerceCZ/puppet-php5-fpm.git
